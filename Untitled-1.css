@@ -1,0 +1,12 @@
+body{
+    background-color: #6667AB;
+    color: whitesmoke;
+}
+p{
+    font-size: 25px;
+    text-indent: 20px; 
+}
+
+li p{
+    text-indent: 0px;
+}
